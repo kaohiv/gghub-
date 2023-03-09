@@ -1,7 +1,7 @@
 -- Gui to Lua
 -- Version: 3.2
---GG hub process
---Kaolate X
+-- GG hub process
+-- Kaolate X
 -- Instances:
 
 local ScreenGui = Instance.new("ScreenGui")
